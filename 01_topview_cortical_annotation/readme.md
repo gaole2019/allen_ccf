@@ -1,6 +1,6 @@
 # Introduction
 
-<img src="./anno_fake_structureID_topview.tif.png" style="width:auto; height:200;"/>
+<img src="./anno_fake_structureID_topview.tif.png" style="height: 200px;"/>
 
 Generate a top-view annotation of cortical regions (n=43). For some specific applications, such as registration of cortex-wide calcium imaging data, it can be used to localize the cortical regions of pixels.
 
