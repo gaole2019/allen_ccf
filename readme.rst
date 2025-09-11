@@ -1,1 +1,1 @@
-Allen CCF is a greate resource of mouse brain atlas, which enables the computational analysis of multimodal data of mouse brain. This repository records codes and results that I used in the analysis of single-neuron projectoms in mouse brain.
+Allen CCF is a great resource of mouse brain atlas, which enables the computational analysis of multimodal data of mouse brain. This repository records code and results that I used in the analysis of single-neuron projectoms in mouse brain.
